@@ -27,8 +27,9 @@
   
   .container {
     color: rgb(140, 87, 219);
-    margin: 10 auto;
+    margin: auto;
     text-align: center;
+    width: 50%;
   }
   
   h1 {
